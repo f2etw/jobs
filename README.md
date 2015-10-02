@@ -33,3 +33,8 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 另外不用客氣，有個專門的 label 是給你們使用的，  
 歡迎張貼個人履歷資訊！
 > [label: 求職](https://github.com/f2etw/jobs/labels/%E6%B1%82%E8%81%B7)
+
+-----
+
+###### License
+本文採用 [CC0 ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ](https://creativecommons.org/publicdomain/zero/1.0/) 授權釋出

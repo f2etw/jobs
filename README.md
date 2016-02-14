@@ -23,7 +23,7 @@ Add job description , salary range and contact way.
 
 -----
 
-### for employer (求職方):
+### for employee (求職方):
 
 GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，  
 例如要篩選從 2015-07-01 後更新過的職缺列表可使用下列的 filter 搭配搜尋：  

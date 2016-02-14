@@ -3,17 +3,21 @@ Frontend jobs board
 
 [![Join the chat at https://gitter.im/f2etw/jobs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/f2etw/jobs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Our jobs board.
+Welcome to our jobs board.
 
 Please create new issue in [issues tab](https://github.com/f2etw/jobs/issues).
 
-Add job description , salary range and contact way.
+And please add information about:
+
++ job description
++ salary range
++ contact method
 
 -----
 
 ### for employer (求才方):
 
-歡迎至 [issue tab](https://github.com/f2etw/jobs/issues/) 創建新的求才 issue！  
+歡迎至 [issues tab](https://github.com/f2etw/jobs/issues/) 創建新的求才 issue！  
 期望能附註薪資範圍，以供瀏覽者預估職能程度。
 
 也希望在順利徵得同事後回來將票 close 掉。
@@ -37,4 +41,5 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 -----
 
 ###### License
-本文採用 [CC0 ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ](https://creativecommons.org/publicdomain/zero/1.0/) 授權釋出
+![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)  
+本文採用 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 授權釋出
